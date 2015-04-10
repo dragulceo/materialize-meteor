@@ -1,9 +1,7 @@
 Materialize Meteor
 =============
 
-A modern responsive front-end framework based on Material Design.
-
-[Materialize alpha release v0.95.1](http://materializecss.com/) packaged for [Meteor](http://meteor.com).
+Fork to fix some bugs on the package:
 
 [materialize-meteor on atmospherejs.com](https://atmospherejs.com/d0minikk/materialize-meteor)
 
@@ -12,7 +10,7 @@ A modern responsive front-end framework based on Material Design.
 With Meteor 0.9 and above, install using:
 
 ```sh
-$ meteor add d0minikk:materialize-meteor
+$ meteor add dragulceo:materialize-meteor
 ```
 
 
