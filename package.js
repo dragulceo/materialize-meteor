@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'dragulceo:materialize-meteor',
+  name: 'XXX:XXX',
   summary: 'A modern responsive front-end framework based on Material Design',
   version: '1.95.1',
   git: 'https://github.com/dragulceo/materialize-meteor.git'
